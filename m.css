@@ -1,0 +1,18 @@
+body{
+   margin: auto;
+    
+}
+table{
+    font-size: 30px;
+    box-shadow: 02px 5px rgba(0,0,0,0.5);
+    border: none;
+    padding: 10px;
+    margin: 1px;
+    border-radius: 10px;
+    background-color: #fdfcfae5;
+
+}
+tr{
+    height: 50px;
+    color: rgb(0, 0, 0);
+}
